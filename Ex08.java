@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// programa de votos validos
 public class Ex08 {
     public static void main(String[] args) {
         
