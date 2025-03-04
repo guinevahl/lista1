@@ -14,7 +14,7 @@ public class Ex05 {
 
         F= ((9*(C/5)) + 32);
 
-        System.out.println("O valor da temperatura em Fahrenheit é igual a " + F);
+        System.out.println("O valor da temperatura em Fahrenheit é igual a " + F + "°F");
     }
     
 }
