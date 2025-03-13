@@ -5,13 +5,13 @@ public class Ex01{
 
         Scanner in = new Scanner(System.in);
 
-        int x, resultado;
+        int num, antecessor;
 
         System.out.println("Digite um número inteiro:\t");
 
-        x = in.nextInt();
+        num = in.nextInt();
 
-        resultado = x - 1;
+        antecessor = num - 1;
 
         System.out.print("o número antecessor a " + x + " é igual a " + resultado);
 
